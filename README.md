@@ -77,7 +77,7 @@ AŞIRI ÖNEMLİ NOT: CSS' de yukarıdaki kod en az önemli olan, aşağıdaki ko
 
 ### Topics I'm missing and want to improve myself
 
-Grid Layout & Bootstrap or something else(CSS Framework)
+More practice and javascript.
 
 ### Resources that helped me with this project
 

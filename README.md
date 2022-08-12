@@ -1,11 +1,18 @@
 ### First Responsive Homepage web design.
 
-
+- [Creator](#Creator)
 - [Important Code Notes](#Important-Code-Notes)
 - [What I learned](#what-i-learned)
 - [Continued development](#Topics-I'm-missing-and-want-to-improve-myself)
 - [Useful resources](#Resources-that-helped-me-with-this-project)
-- [Creator](#Creator)
+
+## Creator
+
+- Website - [Publish Site This Project](https://alperennucr.github.io/Responsive-HomePage-website/)
+- Frontend Mentor - [@alperennucr](https://www.frontendmentor.io/profile/alperennucr)
+- Github - [@alperennucr](https://github.com/alperennucr)
+- LinkedIn - [Alperen Uçar](https://www.linkedin.com/in/alperen-u%C3%A7ar-a26434247/)
+
 
 ### Important Code Notes
 
@@ -88,13 +95,3 @@ Stiller bölmesinde CSS'nizi görebiliyorsanız, ancak CSS'nizin üzeri çizilmi
 bu, CSS'nizi geçersiz kılan başka bir CSS olduğu anlamına gelir. CSS terminolojisinde
 bu kavram Specificity(Özgüllük) olarak adlandırılır. Chrome Geliştirici Araçları, yeni CSS'nizin uygulanmamasına
 neden olan eski CSS'yi bulmanıza yardımcı olabilir.
-
-
-                                                                                 
-
-## Creator
-
-- Website - [Project-Site](https://alperennucr.github.io)
-- Frontend Mentor - [@alperennucr](https://www.frontendmentor.io/profile/alperennucr)
-- Github - [@alperennucr](https://github.com/alperennucr)
-- LinkedIn - [Alperen Uçar](https://www.linkedin.com/in/alperen-u%C3%A7ar-a26434247/)

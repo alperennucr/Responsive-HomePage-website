@@ -70,7 +70,7 @@ değiştir.
 ÖNEMLİ BİLGİ: Responsive yazarken media sırası büyükten küçüğe doğru gidiyor.
 
 SORU: Responsive Design' da breakpointler neden birbirini ezer ?
-ÖĞRENİLEN CEVAP: Aslında birbirlerini ezmezler, eğer dikkatli bakarsanız breakpointler arasında ufak bir öncelik sırası
+CEVAP: Aslında birbirlerini ezmezler, eğer dikkatli bakarsanız breakpointler arasında ufak bir öncelik sırası
 olduğunu görürsünüz. Ekran boyutuna kendini en çok hangi breakpoint'e kabul ettirmiş ise o breakpoint geçerli olur.
 
 AŞIRI ÖNEMLİ NOT: CSS' de yukarıdaki kod en az önemli olan, aşağıdaki kod ise en önemli olan kod'dur. Yani aynı değişkene farklı değerler verdiğimizi düşünürsek en aşağıdaki kod geçerli olacaktır. Responsive design yaparken ekran genişliğimi 1200 baz aldım ve (min-width:1100) olarak en yüksek genişliğe sahip filtrem de bu idi. Ben de bu aralığa((min-width:1100)) bazı kodlar yazdım ve kodlar işlemiyordu. Sebebi bu media etiketinin birkaç satır aşağısında (min-width:500px) aralığında bir kod olmasıydı. Genişliği 1100px olan media etiketimin kodlarını alarak 500px aralıklı media etiketi kodlarımın altına yazdım ve sorunu çözdüm. 

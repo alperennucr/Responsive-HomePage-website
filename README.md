@@ -8,7 +8,7 @@
 
 ## Creator
 
-- Website - [Publish Site This Project](https://alperennucr.github.io/Responsive-HomePage-website/)
+- Website - [Live version of the Project](https://alperennucr.github.io/Responsive-HomePage-website/)
 - Frontend Mentor - [@alperennucr](https://www.frontendmentor.io/profile/alperennucr)
 - Github - [@alperennucr](https://github.com/alperennucr)
 - LinkedIn - [Alperen Uçar](https://www.linkedin.com/in/alperen-u%C3%A7ar-a26434247/)

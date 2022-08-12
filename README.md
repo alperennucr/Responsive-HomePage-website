@@ -1,4 +1,4 @@
-### This is my first responsive website, it haves some issues but next time is not.
+### First Responsive Homepage web design.
 
 
 - [Important Code Notes](#Important-Code-Notes)
